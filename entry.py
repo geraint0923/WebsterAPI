@@ -49,6 +49,12 @@ class word_entry:
 				tag = "%s%s%s " %(sec, subsec, subsubsec);
 				r = self.__trim_def(dt.text);
 				rr = self.__parse_sx(dt);
+				if r == None and dt.text:
+					pattern = re.compile("^([^:]+)");
+					ff = pattern.findall(dt.text);
+					if len(ff) > 0:
+						if len(ff[0]) == len(dt.text):
+							r = dt.text;
 				if r:
 					if rr:
 						self.word_def.append(tag + r + ": " + rr);
@@ -120,6 +126,12 @@ def look_up_word(name, key):
 	print url;
 	content = urllib2.urlopen(url).read();
 	content = re.sub("</?fw>", "", content);
+	content = content.replace("<un>", "");
+	content = content.replace("</un>", "");
+	content = content.replace("<vi>", "[");
+	content = content.replace("</vi>", "]");
+	content = content.replace("<it>", "");
+	content = content.replace("</it>", "");
 #	print content;
 	res = [];
 
