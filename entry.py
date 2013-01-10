@@ -34,36 +34,90 @@ class word_entry:
 		return res;
 
 	def parse_def(self, df):
-		dt_list = df.findall("dt");
-		for dt in dt_list:
-			r = self.__trim_def(dt.text);
-			rr = self.__parse_sx(dt);
-			if r:
-				if rr:
-					self.word_def.append(r + ": " + rr);
+#		dt_list = df.findall("dt");
+		tag = "";
+		sec = ""; #3
+		subsec = ""; #3
+		subsubsec = ""; #4
+		deep = 0;
+		for dt in df:
+			if dt.tag == "vt":
+				if dt.text:
+					self.word_def.append(dt.text);
+				continue;
+			if dt.tag == "dt":
+				tag = "%s%s%s " %(sec, subsec, subsubsec);
+				r = self.__trim_def(dt.text);
+				rr = self.__parse_sx(dt);
+				if r:
+					if rr:
+						self.word_def.append(tag + r + ": " + rr);
+					else:
+						self.word_def.append(tag + r);
 				else:
-					self.word_def.append(r);
-			else:
-				if rr:
-					self.word_def.append(rr);
+					if rr:
+						self.word_def.append(tag + rr);
+				if r or rr:
+					if len(sec) == 3:
+						sec = "   ";
+					else:
+						sec = "";
+					if len(subsec) == 3:
+						subsec = "   ";
+					else:
+						subsec = "";
+					if len(subsubsec) == 4:
+						subsubsec = "    ";
+					else:
+						subsubsec = "";
+				continue;
+			if dt.tag == "sn":
+				if dt.text:
+					sl = dt.text.split(" ");
+#					print "\""+dt.text+"\"",len(sl);
+					ll = 9;
+					for l in sl:
+						if ll > len(l):
+							ll = len(l);
+#						print "haha:","\""+l+"\"", len(l);
+					if len(sl) > 1 and ll > 0:   # like "2 a"
+						sec = "%2s." % sl[0];
+						subsec = "%2s." % sl[1];
+						subsubsec = "";
+					else:
+						try:
+							num = int(sl[0]);
+							sec = "%2d." % num;
+							subsec = "";
+							subsubsec = "";
+						except ValueError:
+							subsec = "%2s." % sl[0];
+							sec = "   ";
+							subsubsec = "";
+				snp = dt.find("snp");
+				if snp != None:
+					if snp.text:
+						subsubsec = "%4s" % snp.text;
+#						sec = "   ";
+#						subsec = "   ";
+
 #			print dt.text;
 
 	def print_word(self):
 		print self.word_name
 		print "type:", self.word_type;
-		num = 1;
 		print "definitions:";
 		if len(self.word_def) == 0:
 			print "None";
 		for item in self.word_def:
 #			print "(" + str(num) + ")",item;
-			print "(%d) %s" % (num, item);
-			num += 1;
+			print "%s" % item;
+#			num += 1;
 
 
 def look_up_word(name, key):
 	url = "http://www.dictionaryapi.com/api/v1/references/collegiate/xml/" + name + "?key=" + key;
-#	print url;
+	print url;
 	content = urllib2.urlopen(url).read();
 	content = re.sub("</?fw>", "", content);
 #	print content;
