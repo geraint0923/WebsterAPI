@@ -1,6 +1,15 @@
 import urllib2
 import re
 import xml.etree.ElementTree as et
+import sys
+
+old_stdout = sys.stdout;
+
+def restore_stdout():
+	sys.stdout = old_stdout;
+
+def reopen_stdout(filename):
+	sys.stdout = open(filename, "w+");
 
 
 class word_entry:
@@ -109,21 +118,28 @@ class word_entry:
 
 #			print dt.text;
 
-	def print_word(self):
-		print self.word_name
-		print "type:", self.word_type;
-		print "definitions:";
+	def print_word(self, fp):
+		fp.write(self.word_name+"\n");
+		fp.write("type: "+self.word_type+"\n");
+		fp.write("definitions:"+"\n");
+
 		if len(self.word_def) == 0:
-			print "None";
+			fp.write("None\n");
 		for item in self.word_def:
-#			print "(" + str(num) + ")",item;
-			print "%s" % item;
-#			num += 1;
+			print item;
+			fp.write(item+"\n");
+#		print self.word_name
+#		print "type:", self.word_type;
+#		print "definitions:";
+#		if len(self.word_def) == 0:
+#			print "None";
+#		for item in self.word_def:
+#			print "%s" % item;
 
 
-def look_up_word(name, key):
+def look_up_word(name, fp, key):
 	url = "http://www.dictionaryapi.com/api/v1/references/collegiate/xml/" + name + "?key=" + key;
-	print url;
+#	print url;
 	content = urllib2.urlopen(url).read();
 	content = re.sub("</?fw>", "", content);
 	content = content.replace("<un>", "");
@@ -147,7 +163,8 @@ def look_up_word(name, key):
 				word = word_entry(entry.find("ew").text);
 				word.word_type = entry.find("fl").text;
 				word.parse_def(entry.find("def"));
-				word.print_word();
+				word.print_word(fp);
+				fp.write("\n");
 				res.append(word);
 		
 	return res;
