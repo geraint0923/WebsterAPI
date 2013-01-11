@@ -98,7 +98,7 @@ class word_entry:
 							ll += 1;
 #						print "haha:","\""+l+"\"", len(l);
 #					print sl, ll;
-					if len(sl) > 1 and ll > 0:   # like "2 a"
+					if len(sl) > 1 and ll > 1:   # like "2 a"
 						sec = "%2s." % sl[0];
 						subsec = "%2s." % sl[1];
 						subsubsec = "";
