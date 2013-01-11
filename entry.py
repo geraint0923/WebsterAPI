@@ -64,7 +64,7 @@ class word_entry:
 					if len(ff) > 0:
 						if len(ff[0]) == len(dt.text):
 							r = dt.text;
-				print tag;
+#				print tag;
 				if r:
 					if rr:
 						self.word_def.append(tag + r + ": " + rr);
@@ -160,12 +160,19 @@ def look_up_word(name, fp, key):
 	if len(root):
 #		print root;
 		entry_list = root.findall("entry");
+		if len(entry_list) == 0:
+			print "error";
+			sug = root.findall("suggestion");
+			if len(sug) == 0:
+				return [];
+			else:
+				return look_up_word(sug[0].text, fp, key);
 #		print entry_list;
 		for entry in entry_list:
 			fl = entry.find("fl");
 			if fl != None:# entry.find("ew").text.lower() == name.lower():
 #				print "***********************************";
-				print "";
+#				print "";
 				word = word_entry(entry.find("ew").text);
 				word.word_type = fl.text;#entry.find("fl").text;
 				word.parse_def(entry.find("def"));
