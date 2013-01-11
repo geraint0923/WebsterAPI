@@ -56,6 +56,7 @@ class word_entry:
 				continue;
 			if dt.tag == "dt":
 				tag = "%s%s%s " %(sec, subsec, subsubsec);
+#				print tag;
 				r = self.__trim_def(dt.text);
 				rr = self.__parse_sx(dt);
 				if r == None and dt.text:
@@ -91,15 +92,17 @@ class word_entry:
 				if dt.text:
 					sl = dt.text.split(" ");
 #					print "\""+dt.text+"\"",len(sl);
-					ll = 9;
+					ll = 0;
 					for l in sl:
-						if ll > len(l):
-							ll = len(l);
+						if len(l) > 0:
+							ll += 1;
 #						print "haha:","\""+l+"\"", len(l);
+#					print sl, ll;
 					if len(sl) > 1 and ll > 0:   # like "2 a"
 						sec = "%2s." % sl[0];
 						subsec = "%2s." % sl[1];
 						subsubsec = "";
+#						print "tag:",sec,subsec;
 					else:
 						try:
 							num = int(sl[0]);
