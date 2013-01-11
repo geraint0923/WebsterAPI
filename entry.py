@@ -153,6 +153,8 @@ def look_up_word(name, fp, key):
 	content = content.replace("</vi>", "]");
 	content = content.replace("<it>", "");
 	content = content.replace("</it>", "");
+	content = content.replace("<d_link>", "");
+	content = content.replace("</d_link>", "");
 #	print content;
 	res = [];
 
