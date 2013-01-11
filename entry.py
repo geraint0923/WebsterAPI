@@ -64,6 +64,7 @@ class word_entry:
 					if len(ff) > 0:
 						if len(ff[0]) == len(dt.text):
 							r = dt.text;
+				print tag;
 				if r:
 					if rr:
 						self.word_def.append(tag + r + ": " + rr);
@@ -107,7 +108,10 @@ class word_entry:
 							subsubsec = "";
 						except ValueError:
 							subsec = "%2s." % sl[0];
-							sec = "   ";
+							if sl[0].startswith("a"):
+								pass;
+							else:
+								sec = "   ";
 							subsubsec = "";
 				snp = dt.find("snp");
 				if snp != None:
@@ -120,13 +124,14 @@ class word_entry:
 
 	def print_word(self, fp):
 		fp.write(self.word_name+"\n");
+#		print self.word_type;
 		fp.write("type: "+self.word_type+"\n");
 		fp.write("definitions:"+"\n");
 
 		if len(self.word_def) == 0:
 			fp.write("None\n");
 		for item in self.word_def:
-			print item;
+#			print item;
 			fp.write(item+"\n");
 #		print self.word_name
 #		print "type:", self.word_type;
@@ -157,11 +162,12 @@ def look_up_word(name, fp, key):
 		entry_list = root.findall("entry");
 #		print entry_list;
 		for entry in entry_list:
-			if entry.find("ew").text.lower() == name.lower():
+			fl = entry.find("fl");
+			if fl != None:# entry.find("ew").text.lower() == name.lower():
 #				print "***********************************";
 				print "";
 				word = word_entry(entry.find("ew").text);
-				word.word_type = entry.find("fl").text;
+				word.word_type = fl.text;#entry.find("fl").text;
 				word.parse_def(entry.find("def"));
 				word.print_word(fp);
 				fp.write("\n");
