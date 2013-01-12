@@ -832,30 +832,127 @@ inconsistent
 brotherhood
 
 #p151
-
+perplexed
+nonaesthetic
+empirical
+melancholy
+stimuli
+synonymous
+lugubrious
+irrational
+vivacious
+asteroid
+minuscule
+pebble
+scathing
+soporific
+reaping
 
 #p150
+defendant
+prosecution
+presume
+testimony
+vivid
+probative
+depicting
+exaggerate
+deter
+stimulate
+distortion
+
+
 
 
 #p149
+censure
+democracy
+polyarchies
+consciousness
+neurons
+subdued
+overrule
+monocratic
+gerontocracic
+democratic
+neurosciences
+vertebrate
+disease
+
 
 
 #p148
-
+democratic
+pluralist
+polyarchies
+deemed
+hamper
+circumstantial
+inevitable
+incapable
+superficially
+substantive
+outward
+convergent
+dissemination
+equilibrium
 
 #p147
+tribulation
+uneven
+reinforcement
+diffusion
+superficial
+narrative
+accustomed
+tailored
+scattered
+spontaneous
+exaggerate
 
 
 #p146
-
+theorist
+conviction
+implicitly
+trivialize
+presumed
+dysfuntion
+paradigms
+adhesive
+dismissive
+reproaching
+polyarchy
+electoral
+irreconcilable
+centrifugal
+stimulation
+resurrection
 
 #p145
+steelmaking
+amalgamate
+intertwine
+peripheral
+minute
 
 
 #p144
-
+pronouncement
+perspective
+withstand
+imprimatur
+delimited
+thereby
+wage
+abating
+precipitate
+underprice
+impede
+blow up
 
 #p143
+
 
 
 #p142
