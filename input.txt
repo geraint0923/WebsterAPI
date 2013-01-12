@@ -362,100 +362,474 @@ demystify
 
 #end
 #p183
+dealer
+amateur
+investor
+insider
+booming
+erratic
+insecticide
+offspring
+cruel
+counterproductive
+vulnerable
+resistant
+taxonomic
+sophisticated
 
 
 #p182
+manufacturer
+innovation
+slight
+curriculum
+squeezed
+neglected
+sibling
+rivalry
+neverthless
+intimate
+vitriolic
+devoid
 
 
 #p181
+evolution
+homogeneity
+equilibrium
+aristocracy
+suspicion
+uncanny
+bizarre
+enviable
+facetious
 
 
 #p180
+vexation
+superfluous
+prerogative
+supernovas
+cosmic
+intervening
+stellar
+luminous
+foresee
+melodrama
+villain
+smug
+spurned
+boredom
+plausible
+self-righteousness
+skepticism
 
 
 #p179
+mediocre
+trumpeter
+erratic
+repugnant
+tempting
+evaded
+courted
+numerous
+prejudice
+impairment
+coloration
+reinforcement
 
 
 #p178
+refuting
+gravitational
+radiation
+repudiated
+chemist
+nomenclature
+stereochemistry
+interrelated
+intact
+sanction
+morale
+beleaguered
+salvage
 
 
 #p177
+inimical
+reciprocity
+subsidiary
+inquiry
+hypothesis
+tentative
+correlation
+psychoanalytic
+
 
 
 #p176
+affluent
+mature
+conserve
+reclaim
+irrigate
+overcome
+wasteland
+domestic
+enigmas
+rigor
+philosophical
+withdrawal
 
 
 #p175
-
+wicked
+indolence
+impliety
+magnanimous
+jargon
+delicacy
+euphemism
+deliberate
+impenetrable
+dogmatist
+elite
+disenfranchised
+impostor
 
 #p174
-
+cryogenic
+pump
+hydroelecrtric
+proportion
+forebode
+typify
+serenity
+placidity
+nostalgia
+rhetoric
+hyperbole
+triumph
+reverberate
+subsiding
+tangling
+lean
 
 #p173
-
+peevish
+quotes
+irrelevant
+imitative
+coincidentally
+schematic
+comprehensively
+incised
+ridged
+imprisoning
+canyons
+indicator
 
 #p172
+longdale
+mitochondria
+chloroplasts
+prudent
+counselors
+provoke
+instigate
+conceal
+postpone
+meager
 
 
 #p171
+decry
+laureate
+triumph
+moral
+obligation
+conscience
+balm
+chastisement
+prompting
+reproaches
+atonement
+transitory
+overpowering
 
 
 #p170
+profound
+ingenious
+intricate
+rudimentary
+speculation
+reliance
+superfluous
 
 
 #p169
+sophisticated
+orbiting
+drift
+escalating
+rift
+consensus
+rumor
+engender
+deter
+wrongdoer
+penalty
+cease
+soliciting
+imitating
+ambiguous
+archaeological
+synthesis
+aesthetics
 
 
 #p168
+pragmatic
+impolitic
+captious
+efficacious
+invaluable
+obsolescent
+recipient
+custodian
+beneficiaries
+medieval
 
 
 #p167
+indignation
+wit
+suppress
+spurn
+vitriolic
+dispiritedness
+reluctance
+resentment
+composure
+civility
+senator
+allegation
+unscathed
+obscure
+sullied
+sovereignty
+suffrage
+skeptical
 
 
 #p166
-
+irresponsible
+possession
+propensity
+obviate
+preoccupation
+constitute
+diffusion
+windmill
+seaport
+headway
+obstacle
 
 #p165
+prescribed
+profoundly
+consciousness
+repelled
+intrigued
+permeated
+incentive
+concealing
+isolating
 
 
 #p164
-
+diminishing
+unarticulated
+preoccupation
+monomania
+innocuous
+tame
+tendentious
+meretricious
+overcome
 
 #p163
+affinity
+residency
+landscape
+condemn
+obfuscate
+attest
+narrative
+metaphysics
+discursive
+hedonistic
+insular
+interdiciplinary
+encapsulation
 
 
 #p162
+ingenious
+spontaneous
+beneath
+rigid
+contriving
+forbearing
+disseminated
+underplay
+laud
+intrigued
+superior
+inhabit
+coveted
+resented
+underestimated
+plausible
+correlate
+precede
 
 
 #p161
-
+charismatic
+contrive
+prolifically
+spontaneously
+willfully
+imposing
+steep
+antidote
+deterrent
+incentive
+bewildering
+linguistics
+hobbyist
+rudimentary
 
 #p160
-
+prehistoric
+conjecture
+conscious
+hunches
+deduction
+pervasive
+departure
+precursor
 
 #p159
+maturational
+adolescent
+onset
+falter
+dwindle
+prospect
+thoroughly
+daunting
+unpromising
+superficial
+defiance
+domination
+disciplined
+civic
 
 
-#p158
 
 
 #p157
-
+missionary
+hackneyed
+tradeoff
+liabilities
+banal
+substitutes
+supracompetitive
+constrain
+revive
 
 #p156
-
+primarily
+eschewing
+ensconcing
+bolstering
+serried
+indolence
+pellucidity
+peindustrial
+inconceivable
+cultivation
+pathogens
+microbial
+intensified
+suppressive
 
 #p155
-
+extinction
+distorting
+minor
+conjure
+flourish
+demystify
+neutral
+multitude
+depiction
+margin
+intangible
+evasive
+relegated
+provoke
+invigorated
 
 #p154
-
+grant
+medieval
+nonetheless
+echelons
+impairment
+regulating
+ecosystem
+ridicule
+disprove
+reprehension
+preclude
 
 #p153
-
+deposit
+roughly
+meteorites
+iridium
+diapir
+disperse
+dispel
+precipitation
+manipulation
+neutralize
+authentic
+furnaces
+segregate
+prigs
+overshadowed
+demeaned
+laymen
 
 #p152
-
+crimes
+offense
+nonextraditable
+licit
+capricious
+vague
+salutary
+aristocracy
+grandiloquence
+inconsistent
+brotherhood
 
 #p151
 
