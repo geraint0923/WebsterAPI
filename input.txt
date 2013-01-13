@@ -1,4 +1,3 @@
-#begin
 #p207
 mutual
 teasing
@@ -360,7 +359,6 @@ conjure
 dissipate
 demystify
 
-#end
 #p183
 dealer
 amateur
@@ -531,7 +529,6 @@ canyons
 indicator
 
 #p172
-longdale
 mitochondria
 chloroplasts
 prudent
@@ -863,11 +860,9 @@ distortion
 
 
 
-
 #p149
 censure
 democracy
-polyarchies
 consciousness
 neurons
 subdued
@@ -884,7 +879,6 @@ disease
 #p148
 democratic
 pluralist
-polyarchies
 deemed
 hamper
 circumstantial
@@ -949,7 +943,6 @@ abating
 precipitate
 underprice
 impede
-blow up
 
 #p143
 myth
@@ -995,7 +988,7 @@ resemble
 impromptu
 acrimonious
 
-
+#begin
 #p140
 monarchies
 sought
@@ -1008,7 +1001,6 @@ expedite
 exemplify
 primitive
 prominent
-unintend
 unison
 readiness
 competence
@@ -1495,29 +1487,128 @@ attuned
 circumvent
 forsake
 
+#end
 #p99
+transition
+regression
+debased
+consolidation
+aberrant
+calamity
+sophisticated
+charitable
+turmoil
+acclaim
+vacillate
+resist
+subvert
+
 
 
 #p98
+salutary
 
 
 #p97
+conjecture
+surmise
+aesthetically
+empirically
+irremediably
+remorse
+skepticism
+frivolous
+flawed
+certitude
+valedictory
+genre
+rigidly
+grandiloquence
 
 
 #p96
+reassuring
+exhilaration
+trepidation
+panel
+feasible
+mundane
+visionary
+appealing
+eclectic
+adherence
+acolyte
+reluctant
+martinet
+sporadic
+tyrant
+rigid
 
 
 #p95
+commended
+discreet
+overt
+dissent
+perceptible
+recanted
+substituting
+disparaged
+lauded
+approbation
+ambivalence
+censure
+refusal
+cowardice
+rigidity
+betray
+foreshadowed
+alleviated
+
 
 
 #p94
+pioneering
+decried
+complimented
+mundane
+inconclusive
+unorthodox
 
 
 #p93
+impostor
+afflict
+candor
+efface
+jeopardize
+willfulness
+esteemed
+condescension
+precursor
+duckling
+instinctive
+bond
+impulse
+mimicking
+
 
 
 #p92
-
+lyric
+essence
+antithetical
+evanescent
+interdependent
+ponderous
+intermittent
+sporadic
+annihilation
+parasites
+caterpillar
+dormant
+foster
+stimulation
 
 #p91
 
