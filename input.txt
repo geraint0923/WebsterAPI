@@ -952,137 +952,548 @@ impede
 blow up
 
 #p143
+myth
+harness
+wilderness
+superfluous
+prehuman
+presumptuous
+meditated
+motley
+homogeneous
 
 
 
 #p142
+compulsory
+democracies
+reminiscent
+proponent
+opponent
+undermocratic
+undergrid
+idiosyncratic
+taxation
+conscription
+conducive
+coerced
+reinforce
+overstep
+paradox
 
 
 #p141
+democracy
+eminence
+rebellion
+interference
+monogologues
+crafted
+rigidity
+landmark
+resemble
+impromptu
+acrimonious
 
 
 #p140
-
+monarchies
+sought
+despotic
+regimes
+dissident
+extol
+aristocratic
+expedite
+exemplify
+primitive
+prominent
+unintend
+unison
+readiness
+competence
 
 #p139
-
+unimpeachable
+tongue
+cohesion
+demean
+revoke
+deliberate
 
 #p138
-
+ethical
+distort
+mystical
+extraneous
+germane
+dominant
+discrimination
+minority
 
 #p137
+compelled
+autonomy
+assimilate
+suppressing
+orthodox
+buttressed
+obscurity
 
 
 #p136
-
+acculturation
+confront
+obscuring
+polemic
+enunciating
+endorse
+impair
+overturn
+subvert
 
 #p135
-
+distress
+snake
+cinematic
+depiction
+repudiate
+panorama
+annotation
+anthropologist
+perceive
+personnel
+ecstatic
+solicitous
+viable
 
 #p134
+ideological
+stylistic
+dispassionnate
+disparaged
+espouse
+neglect
+flaw
+exacerbate
 
 
 #p133
+virtue
+harmony
+merchant
+correlation
+stall
+lagging
+underfunded
+segregated
 
 
 #p132
+legislation
+allegedly
+reclaim
+litigation
+plaintiff
+speculate
+anachronisms
+jargon
+bond
+prescribed
+conceptualization
+epic
 
 
 #p131
-
+ample
+aesthetic
+superficiality
+exmemplified
+grim
+charming
+dictated
+heredity
+refute
+exaggerate
+longstanding
 
 #p130
-
+mud-dwelling
+evolve
+speciation
+fluctuation
+extinction
+scope
+practitioner
+exaggerated
+broadening
+antedates
 
 #p129
-
+circumstantiality
+speculation
+nuance
+homogeneousness
+advocate
+protest
+disobedience
 
 #p128
+boost
+crude
+shore
+wellhead
+monotonous
+derivative
+simultaneously
+frescoes
+sophisticated
+feeble
+virtuoso
+transcribed
+peripheral
+supreme
 
-
-#p127
 
 
 #p126
+superficial
+contingencies
+identical
+exigencies
 
 
 #p125
-
+shagreen-bound
+folio
+pagesa
+probity
+extravagance
+disapprobation
+illiberal
+profligate
+acquisitive
+temperance
+suffrage
+underscore
+inimical
+prodominant
+gratifying
+subtle
+peculiarity
+enigmatic
 
 #p124
+apostle
+exotic
+spotlight
+peripheral
+entomologist
+stigmatization
+lionization
+transcend
+obscure
+understatement
+overwhelm
+deflect
+undemonstrative
+panache
 
 
 #p123
-
+deceptive
+vocal
+cherished
+disquieting
+ritual
+overshadow
+injudicious
+wary
+reckless
 
 #p122
-
+acumen
+agonizing
+fastidiousness
+didacticism
+iconoclasm
+landmark
+ethnomusicology
 
 #p121
-
+masterpieces
+accentuated
+portrait
+rife
+apathy
+affability
 
 #p120
+harvest
+inadequate
+replenished
+salvage
+depleted
+vital
+diagnose
+precipitate
+chuckle
+guffaw
+rebuke
 
 
 #p119
+homeopathic
+remedies
+distrust
+eschewing
+countenance
+envisioning
+deploring
+debunking
 
 
 #p118
-
+disposition
+feign
+deliberation
+overcome
+duplicity
 
 #p117
-
+berate
+acrimony
+largesse
+undeniable
+artfulness
+caprice
+dabbling
+superficial
+lighthearted
 
 #p116
+deciphering
+aesthetes
+aberration
+hieroglyph
+landlocked
+primitive
+reptilian
 
 
 #p115
-
+stark
+virtue
+serenity
+corruption
+bereft
+theatricality
+deprive
+devoid
+conspicuous
+eccentric
+ubiquitous
+prohibitive
+obligatory
+intricate
+coarsely
+lavishly
 
 #p114
+preventive
+symptoms
 
 
 #p113
+repudiate
+esteem
+obsessed
+contempt
+quest
+disconcerted
+immersed
+lackluster
+condemn
 
 
 #p112
-
+silicon
+etching
+plausible
+miniature
+fabricated
+unprecedented
+routine
+reinforce
+strain
+flourishing
+coup
+continental
+coastline
+negligence
+expediency
+suppress
+exigency
 
 #p111
+blazed
+abated
+berate
+appease
+condone
+repressive
+regimes
+coercion
+contradictory
+impose
+oblique
+eruption
+exponentially
+erratic
+superficial
+
 
 
 #p110
-
+interwined
+perceptual
+adolescent
 
 #p109
+intimidating
+tractable
+irreparable
+permanent
+vitalism
+congruent
+multifaceted
+erroneous
+vapid
+obtuse
+univocal
 
 
 #p108
+cogent
+eclectic
+schematic
+derivative
+sympathy
+circumspect
+bolstered
+nurturing
+inhibit
+resurecting
+perpetuating
+attaining
 
 
 #p107
+medieval
+possessed
+bequest
+unselfish
+spurious
+approval
+discretion
+obsessed
+oblivious
+rancorous
+fatuous
+idolatry
+
 
 
 #p106
+complementary
+probe
+reconciled
 
 
 #p105
+atherosclerosis
+alleviated
+remission
+profanity
+radical
+essential
+assault
+trivial
+belligerent
+fallibility
+decorum
+hostile
+nonconformity
 
 
 #p104
+pertinent
+fossils
+unconcealable
+lagged
+viable
+germinated
+proliferated
+endured
+empirical
+unfounded
+bluffing
+condemn
 
 
 #p103
+discourse
+unadorned
+deviated
+prose
+vulnerable
+superior
+austere
+sophisticated
+calloused
+perceptive
+denounce
+spectator
+snobbery
 
 
 #p102
-
+blueprint
+peccable
+striking
+flout
+assess
 
 #p101
+belying
+stance
+erstwhile
+incompetence
+intransigence
+conciliatory
+combative
+enticement
+superior
+savagery
+proportion
+atrocities
+viciousness
+triumph
 
 
 #p100
-
+promulgation
+parasite
+extinct
+atrophy
+succumb
+infertile
+bureaucratic
+impediment
+therapies
+attuned
+circumvent
+forsake
 
 #p99
 
