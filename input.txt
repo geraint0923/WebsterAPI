@@ -988,7 +988,6 @@ resemble
 impromptu
 acrimonious
 
-#begin
 #p140
 monarchies
 sought
@@ -1487,7 +1486,7 @@ attuned
 circumvent
 forsake
 
-#end
+#begin
 #p99
 transition
 regression
@@ -1611,140 +1610,678 @@ foster
 stimulation
 
 #p91
+incompetent
+coherent
+mediocre
+preconceptions
+empiricism
+precede
+transcend
+repudiate
+derive
 
 
 #p90
+artificial
+respiratory
+microorganisms
+peak
+inhibits
+lessened
+particle
+decayed
+randomness
+exhibit
+equilibrium
+chaotic
+apprised
+speculating
+withheld
+suppressed
+
 
 
 #p89
+quack
+rational
+pragmatists
+credulous
+skeptics
+alleviate
+depressed
+shielding
+placating
+gouging
+excessive
+subservient
 
 
 #p88
-
+impending
+awe
+inhibition
+eloquence
+antibiotics
+bacteria
+panacea
+resurgence
+frail
+valiant
+morality
+breached
+rationality
 
 #p87
+provisional
+antiquated
+ineffective
 
 
 #p86
+preeminent
+sabotaged
+supplanted
+culminated
+controversy
+monotonous
+retiring
+penchant
+aversion
+disciples
+idiosyncratic
+stimulate
+reenact
 
 
 #p85
-
+decent
+superiors
+scrupled
+tacit
+perfunctory
+subordinate
+norm
+rigidity
+adolescent
+prosaic
+tenuous
 
 #p84
-
+medieval
+inoffensive
+compensating
+profundity
+inherently
+ornamental
+allusive
+hierarchy
+strata
+caste
+intact
+inferior
 
 #p83
-
+reinforced
+replicated
+fabricated
+resuscitated
 
 #p82
+shackle
+remedies
+impervious
+vulnerable
+wary
+devoid
+crossfire
+interplay
+tussle
+tout
+stereotypes
+resemblance
+perceptions
+complaint
+
 
 
 #p81
-
+mortgages
+annual
+magnanimity
+reparation
+largesse
+appropriation
+altruism
+perquisites
+charitable
+disquieted
+vague
+coherent
+provocative
+intriguing
+prevailing
 
 #p80
+skeptics
+overcome
+pragmatic
+pessimistic
+disabuse
+unconvinced
+gauges
+consciousness
+ephemeral
+permanent
+underutilized
+odds
+
 
 
 #p79
-
+psychotic
+treason
+symptoms
+spontaneous
+ludicrous
+clumsy
+distressing
 
 #p78
-
+criterion
+reluctant
+prone
+fervent
+vulnerable
+painstaking
+circumstances
+inherited
+lethal
+perplexing
+untreated
+refractory
 
 #p77
-
+impressive
+nightmare
+casual
+ballads
+chorales
+routine
+recitals
+cultivation
+natsukashii
+mourn
+rejoice
+grieve
+savor
+blossom
 
 #p76
-
+oppenents
+retreat
+inconsequential
+defects
+impressive
+pardoned
+unexceptionable
 
 #p75
-
+neutral
+adulation
+consternation
+infuriated
+antipathy
 
 #p74
+democratic
+discipline
+regimentation
+espoused
+inherent
+swift
+reconciled
+tantalizingly
+spurious
+deceptively
+ostensibly
+vexing
+notoriously
 
 
 #p73
+pragmatic
+elusive
+explanatory
+convergent
+simplistic
+oblivion
+instinctive
+discriminating
+perennial
+ephemeral
+immense
+
 
 
 #p72
-
+contestants
+adamant
+prejudice
+foreknowledge
+partiality
+exposure
+sustained
+regulation
+inconclusive
+impair
+buttress
+obscure
+neutralize
+beneficial
+devastated
+encumbering
+superfluous
+walruses
+seafloor
 
 #p71
-
+psychiatrists
+implicit
+impaired
+uphold
+disregard
+utgrowths
+presumptuousness
+relevance
+vestiges
+outspoken
+inherent
+fickle
+fanatical
+congenial
+speciousness
 
 #p70
-
+canary
+imperious
+lethargic
+unfettered
+decorum
+superseded
+opium
+altruism
+enigma
+intimidated
+distressed
+conquered
+neglect
+overemphasized
+overturned
+nullified
+underplay
+precedent
 
 #p69
-
+curtailed
+imposed
+disinterested
+imperatives
+callous
+presumed
+coterminous
+dormancy
+gaseous
+awe
+belied
 
 #p68
-
+clergy
+dissidents
+obligation
+inclination
+latitude
 
 #p67
+totalitarianism
+coercion
+deliberated
+repudiated
+untainted
+dichotomous
+savage
+irony
+bespeaks
+marred
+ruthless
+chivalrous
 
 
 #p66
+perennial
+zoology
+infer
+cellular
+eccentric
+prose
+obscured
+portrayed
+errant
+depraved
+dehumanizing
+unfettered
+beneficent
 
 
 #p65
+feigned
+perfunctory
+endorsemenr
+worthwhile
+bankrupt
+censure
+dissolution
+vogue
+vital
 
 
 #p64
+intransigence
+quarter
+subordinats
+elicited
+intimating
+forbore
+instigating
+emending
+brooked
+anomalous
+enduring
 
 
 #p63
-
+overwhelming
+vanity
+oblivion
+consigning
+adulation
+betrayed
+stinting
+sympathy
+lavishing
 
 #p62
-
+contemporary
+discernment
+entangling
+skepticism
+reinstating
+quixotism
+deciphering
+mediocrity
+desperate
+disinclined
+adamant
+conviction
+insincerity
+disabuse
 
 #p61
-
+adolescent
+outlaws
+propriety
+impunity
+collusion
+intervention
+collaboration
+luxuriant
+transitoriness
+collusive
+frivolity
 
 #p60
+colonial
+embellished
+discernible
+appropriate
 
 
 #p59
+legislature
+progressives
+reputation
+praise
+obstacle
+resistance
+mysticism
+sustained
+hampered
+anachronism
+defiance
 
 
 #p58
-
+negligible
+outstrips
+stimulates
+inhibits
+rivals
+elusive
+relevant
+candid
+soliciting
+idiosyncratic
+reticent
+eschewing
 
 #p57
+alleged
+distribute
+retain
+consult
+circumstantial
+regulation
+rectitude
+grudging
+decimated
+abeyance
+terrorized
+currupted
+quarantine
+charter
 
 
-#p56
 
 
 #p55
+gratitude
+disclosure
+bordering
+discretion
+openness
+ineptitude
+disregard
+alloyed
+marred
+compendium
+soliloquy
+treatise
+prerequisite
+critique
+
 
 
 #p54
+colonization
+prosperity
+diminished
+undermined
+typographical
+recurring
+narrative
+genres
+susceptible
+misuse
+inquiry
+demarcation
+conceived
+prevalent
+unvarying
+temporal
+successive
+prime
+minister
+cabinet
+embellished
+overlooked
+unleashed
+thwarted
 
 
 #p53
+herbicides
+dismay
+defy
+defer
+assail
+disparage
+antiquated
+serene
+tranquil
+sprawling
+maturity
+seedling
+deterring
+displacing
+imitating
+nurturing
 
 
 #p52
-
+legislators
+regulate
+remuneration
+statute
+wages
+futility
+bootlessness
+intricacy
+decadence
+dispositions
+mercurial
+blithe
+phlegmatic
+introverted
+grandiosity
+vernacular
+dissercted
+shunned
+exploited
 
 #p51
+imprudent
+perplexing
+banal
+visionary
+virus
+strain
+peripheral
+therapeutic
+elucidating
+obviating
+facade
+strip
+charmed
+assailed
+unnotied
+railed
+exhilarated
+overwhelmed
+forcefulness
+trait
+persistence
+perseverance
+promptness
+aggression
+lucidity
 
 
 #p50
+resurged
+retarded
+capitualted
+retaliated
+persevered
+moisture
+supervision
+ambiguous
+provisional
+menial
+humble
+mediocre
 
 
 #p49
+preoccupation
+monomania
+innocuous
+tame
+conducive
+tendentious
+meretricious
+semantic
+decipher
+erudition
+obscurity
+opacity
+welfare
+federally
+income
+overlapping
+welter
+hodgepodge
+paucity
 
 
 #p48
-
+provincial
+constrained
+precedent
+pragmatic
+empirical
+nostalgia
+stimulating
+pitiful
+evocative
+clinical
+digust
+provoke
+exodus
+stymied
+overwhelmed
+blended
 
 #p47
+sanctuary
+primates
+inveterately
+proprietary
+gregarious
+formidable
+blizzard
+inevitability
+ferocity
+fierceness
+mildness
+congress
+sonsensus
+commonplace
+trivial
+explicit
+disparate
+divergent
+fundamental
 
-
+#end
 #p46
 
 
