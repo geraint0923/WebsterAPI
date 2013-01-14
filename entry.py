@@ -161,10 +161,13 @@ def look_up_word(name, fp, key):
 #	print content;
 	res = [];
 
+#	print content;
+
 	root = et.fromstring(content);
 	if len(root):
 #		print root;
 		entry_list = root.findall("entry");
+#		print entry_list;
 		if len(entry_list) == 0:
 			print "error";
 			sug = root.findall("suggestion");
@@ -175,10 +178,11 @@ def look_up_word(name, fp, key):
 #		print entry_list;
 		for entry in entry_list:
 			fl = entry.find("fl");
-			if fl != None:# entry.find("ew").text.lower() == name.lower():
+			ew = entry.find("ew");
+			if fl != None and ew != None:# entry.find("ew").text.lower() == name.lower():
 #				print "***********************************";
 #				print "";
-				word = word_entry(entry.find("ew").text);
+				word = word_entry(ew.text);
 				word.word_type = fl.text;#entry.find("fl").text;
 				word.parse_def(entry.find("def"));
 				word.print_word(fp);

@@ -11,9 +11,11 @@ f = codecs.open("input.txt", "r", "utf-8");
 fp = None;
 lines = f.readlines();
 check = 0;
+running = 0;
 
 for line in lines:
-	print line;
+	if check == 1:
+		print line;
 	line = line[:-1];
 	if len(line) <= 0:
 		continue;

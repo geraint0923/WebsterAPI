@@ -1486,7 +1486,6 @@ attuned
 circumvent
 forsake
 
-#begin
 #p99
 transition
 regression
@@ -1593,6 +1592,7 @@ mimicking
 
 
 
+#begin
 #p92
 lyric
 essence
@@ -1605,8 +1605,8 @@ sporadic
 annihilation
 parasites
 caterpillar
-dormant
 foster
+dormant
 stimulation
 
 #p91
